@@ -6,7 +6,7 @@
 ## Tecnologias usadas!
 
 -HTML5
--CSS3
+-CSS
 
 ### " Obervações! "
 Está página foi criada para avaliação do curso DevQuest.
